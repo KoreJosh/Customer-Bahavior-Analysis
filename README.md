@@ -1,8 +1,6 @@
 # Customer Shopping Behavior Analysis
 
-![]![mall](https://github.com/KoreJosh/Customer-Bahavior-Analysis/assets/97749198/942cefa2-eeaf-440f-9da3-4969069e9a2a)
-
-
+![](https://github.com/KoreJosh/Customer-Bahavior-Analysis/assets/97749198/66ed50a2-ca69-4dfe-b4c7-0791ada82d44)
 
 ## Project Overview
 The customer behavior analysis project aims to gain valuable insights into customer preferences, purchasing habits, and demographic trends by analyzing transactional data from various shopping malls. The dataset comprises the following columns: 'invoice_no', 'customer_id', 'gender', 'age', 'Age Group', 'category', 'quantity', 'price', 'payment_method', 'invoice_date', and 'shopping_mall'.
@@ -18,7 +16,7 @@ Key Objectives:
 Leveraging advanced analytics techniques on the provided dataset, this project aims to empower businesses with actionable insights into customer behavior, enabling them to make data-driven decisions and drive sustainable growth in a competitive retail landscape.
 
 ## Data Source
-The dataset contains 99457 rows( each rows represent a patient), and 15 columns of various shopping preferances. [See Here]
+The dataset contains 99457 rows( each rows represent a patient), and 15 columns of various shopping preferances.[See Here](https://github.com/KoreJosh/Customer-Bahavior-Analysis/files/14458583/customer_shopping_data.csv)
 
 
 ## Tools
