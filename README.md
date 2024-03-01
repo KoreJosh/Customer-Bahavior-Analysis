@@ -1,6 +1,7 @@
 # Customer Shopping Behavior Analysis
 
-![](https://github.com/KoreJosh/Customer-Bahavior-Analysis/assets/97749198/67215290-40a6-4ac7-ab68-458c33f4b2e2)
+![]![mall](https://github.com/KoreJosh/Customer-Bahavior-Analysis/assets/97749198/942cefa2-eeaf-440f-9da3-4969069e9a2a)
+
 
 
 ## Project Overview
