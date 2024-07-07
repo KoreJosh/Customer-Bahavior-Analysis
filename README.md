@@ -137,6 +137,8 @@ Adult: 19.4%
 Elder: 19.2%
 Senior: 36.3%
 
+Interact with the Analysis [Here](https://public.tableau.com/app/profile/korede.joshua/viz/CustomerBehaviorAnalysis_17087952173620/Dashboard1?publish=yes)
+
 ### Insights and Recommendations
 Purchasing Trends: Senior customers have the highest purchasing power, indicating that marketing strategies should target this age group.
 Gender Distribution: Female customers make up a larger percentage of the customer base, suggesting that product offerings and promotions should cater to their preferences.
